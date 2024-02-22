@@ -1,6 +1,3 @@
-Natnael Teshome:)
-09/22/2021
-Project 1
 
 
 program written in C++
